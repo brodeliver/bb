@@ -25,7 +25,7 @@
 	<link rel="manifest" href="manifest.json">
 
 
-	<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/brodeliver/bb@6/BasketBros.js?th=644"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/brodeliver/bb@7/BasketBros.js?th=644"></script>
 
 	<script>
 		if (typeof navigator.serviceWorker !== 'undefined') {
@@ -325,13 +325,13 @@
 	</script>
 
 	<div id="loading" style="position: absolute; z-index: 15; top: 60%; left: 50%; transform: translate(-50%, 0); background: black;">
-			<center><img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@6/assets/loading4.png"><br/>
-			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@6/assets/fbro.png">
-			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@6/ssets/bbbro.png">
-			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@6/assets/sbro.png">
-			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@6/assets/wbro.png">
-			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@6/assets/kbro.png">
-			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@6/assets/bbro.png">
+			<center><img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@7/assets/loading4.png"><br/>
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@7/assets/fbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@7/ssets/bbbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@7/assets/sbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@7/assets/wbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@7/assets/kbro.png">
+			<img src="https://cdn.jsdelivr.net/gh/brodeliver/bb@7/assets/bbro.png">
 			</center>
 	</div>
 
